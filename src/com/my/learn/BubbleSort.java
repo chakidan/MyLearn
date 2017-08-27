@@ -1,5 +1,10 @@
 package com.my.learn;
 
+/**
+ * @author Charaka Danansooriya
+ *
+ */
+
 public class BubbleSort {
 	
 	/**5, 8, 1, 6, 9, 2

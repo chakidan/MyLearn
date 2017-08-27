@@ -1,5 +1,10 @@
 package com.my.learn;
 
+/**
+ * @author Charaka Danansooriya
+ *
+ */
+
 public class SelectionSort2 {
 
 	public static void main(String[] args) {

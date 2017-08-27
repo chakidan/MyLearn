@@ -1,5 +1,10 @@
 package com.my.learn;
 
+/**
+ * @author Charaka Danansooriya
+ *
+ */
+
 public class Factorial {
 
 	// The number you want to see factorial for

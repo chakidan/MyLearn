@@ -3,6 +3,11 @@ package com.my.learn;
 import java.util.Collection;
 import java.util.HashSet;
 
+/**
+ * @author Charaka Danansooriya
+ *
+ */
+
 public class StaticBindingTest {
 
 	public static void main(String[] args) {

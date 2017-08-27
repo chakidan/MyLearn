@@ -2,6 +2,11 @@ package com.my.learn;
 
 import java.util.Arrays;
 
+/**
+ * @author Charaka Danansooriya
+ *
+ */
+
 public class SelectionSort {
 	
 	

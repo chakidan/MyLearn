@@ -5,6 +5,11 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * @author Charaka Danansooriya
+ *
+ */
+
 // collections provide us dynamic type of data structures. 
 
 public class GenericsDemo {

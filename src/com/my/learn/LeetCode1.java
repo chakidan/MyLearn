@@ -3,6 +3,11 @@ package com.my.learn;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @author Charaka Danansooriya
+ *
+ */
+
 public class LeetCode1 {
 
 	public static int[] twoSum(int[] nums, int target) {
